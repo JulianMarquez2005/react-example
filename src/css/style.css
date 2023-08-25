@@ -13,6 +13,7 @@ body {
     border-top: 1px solid #EEE;
     border-bottom: 1px solid #EEE;
     background-image: url('../img/fondo.jpg');
+    background-size: cover;
 }
 
 /* --  background image section  -- */
